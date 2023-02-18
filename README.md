@@ -7,4 +7,4 @@
  
 # DSA_Solutions 
 
-This repo has intresting  DSA questions from Hacherrank and Leetcode and their solutions!
+This repo has interesting  DSA questions from Hacherrank and Leetcode and their solutions!
