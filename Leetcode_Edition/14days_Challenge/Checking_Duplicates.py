@@ -1,7 +1,7 @@
 class Solution:
     def checkingforduplicates(self , nums):
         """I will use a set ,
-A set does not store duplicate , there it can chek fot duplicate
+A set does not store duplicates , there it can check for duplicates
 """
         return len(nums) != len(set(nums))
 
